@@ -1,10 +1,11 @@
+theme: Academia
+academic: true
 favicon: /img/favicon.png
 # Change to your profile picture
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Jason'
 author_bio: 'Your biography can be writed down here.'
-academic: true
 since: 2020
 
 # Top Menu 顶部菜单
@@ -68,3 +69,4 @@ CDN_USE:
     - https://cdn.jsdelivr.net/npm/jquery-pjax@latest/jquery.pjax.min.js
 
     - /js/main.js
+
